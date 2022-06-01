@@ -93,7 +93,7 @@ Capacity: 134217727
 ```
 ## Programos v2.0 spartos analinės palyginimas ##
 
-| Masyvo dydis | std::vector | Vector klasė |
+| Masyvo dydis | std::vector | custom vector|
 | :------------| :---------- | :----------- |
 | 1000         | 0.085s      | 0.088s       |
 | 10000        | 0.936s      | 0.899s       |
